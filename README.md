@@ -87,5 +87,5 @@ mvn spring-boot:run
 
 ## 👥 Contributeurs
 
-<a href="https://github.com/houssamb4">Houssam Bouzid</a>
-<a href="https://github.com/Oussama846">Oussama Darradi</a>
+- 👨‍💻 [**Houssam Bouzid**](https://github.com/houssamb4)
+- 👨‍💻 [**Oussama Darradi**](https://github.com/Oussama846)

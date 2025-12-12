@@ -38,42 +38,6 @@ CREATE TABLE item (
 );
 ```
 
-## 🔬 Variantes d'Implémentation
-
-### Variante A : JAX-RS (Jersey) + JPA/Hibernate
-
-- Implémentation manuelle des endpoints avec Jersey
-
-- JPA pour la couche d'accès aux données
-
-- Contrôle total sur la logique métier
-
-### Variante C : Spring Boot + @RestController + JPA/Hibernate
-
-- Spring MVC avec annotations @RestController
-
-- Repositories Spring Data JPA
-
-- Écosystème Spring Boot standard
-
-### Variante D : Spring Boot + Spring Data REST
-
-- Exposition REST automatisée à partir des repositories
-
-- Format hypermédia HAL
-
-- Codage manuel minimal
-
-## 🛠️ Stack Technique
-
-- Java 17+ (version LTS)
-
-- Spring Boot 3.x
-
-- PostgreSQL 14+
-
-- JMeter pour les tests de charge
-
 ## 🚀 Démarrage Rapide
 
 ```bash
